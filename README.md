@@ -1,4 +1,5 @@
 **FAKE NEWS DETECTION USING PYTHON**
+
 Fake news has become a significant problem today, with the rise of social media and online 
 platforms. The spread of false information can have profound consequences, including shaping 
 public opinion, influencing elections, and even inciting violence. 
